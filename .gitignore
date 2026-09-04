@@ -1,0 +1,17 @@
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Build output / dependencies (if applicable later)
+node_modules/
+dist/
+build/
